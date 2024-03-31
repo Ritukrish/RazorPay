@@ -1,0 +1,37 @@
+.payLink{
+    background-color: black;
+}
+@media (max-width:700px) {
+    body > div.overflow-x-hidden.relative.w-full > section:nth-child(2) > div.w-10\/12.max-w-\[1080px\].flex.sm\:flex-col.lg\:flex-row.justify-between.items-center.mx-auto > div > h1{
+        width: 8em;
+    }
+    body > div.overflow-x-hidden.relative.w-full > section:nth-child(2) > div.w-10\/12.max-w-\[1080px\].flex.sm\:flex-col.lg\:flex-row.justify-between.items-center.mx-auto > img{
+        margin-left: -20em;
+    opacity: 0.2;
+    }
+    body > div.overflow-x-hidden.relative.w-full > nav > div > a{
+        margin-left: 10px;
+    }
+    body > div.overflow-x-hidden.relative.w-full > section:nth-child(8) > div > div.flex.flex-col.xl\:flex-row.max-w-\[960px\].items-center.mx-auto.my-20.space-x-\[10rem\] > div{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    body > div.overflow-x-hidden.relative.w-full > section:nth-child(8) > div > div.flex.flex-col.xl\:flex-row.max-w-\[960px\].items-center.mx-auto.my-20.space-x-\[10rem\] > div > img:nth-child(6){
+        display: none;
+    }
+    body > div.overflow-x-hidden.relative.w-full > section.bg-\[url\(\/images\/CTABg\.svg\)\].w-full.h-full.bg-no-repeat.bg-cover.relative.ctaSection.min-h-\[510px\] > div{
+        padding-top: 1rem;
+    }
+    body > div.overflow-x-hidden.relative.w-full > section.bg-\[\#f5f8fe\].relative.pt-40.pb-12.-mt-\[200px\].-z-\[100\] > div > div.h-\[500px\].w-\[500px\].relative.overflow-y-hidden.mx-auto{
+        width: 100%;
+    }
+    body > div.overflow-x-hidden.relative.w-full > section.relative.mt-\[190px\].overflow-hidden > div > h2.font-mullish.text-center.text-5xl.leading-\[1\.2\].font-extrabold.md\:hidden{
+        font-weight: 700;
+    }
+    body > div.overflow-x-hidden.relative.w-full > section.relative.mt-\[190px\].overflow-hidden > div > div.w-full.min-h-\[520px\].bg-white.flex.rounded-md.relative.p-10.py-12.border > div > ul{
+        margin-top: 10px;
+    }
+    body > div.overflow-x-hidden.relative.w-full > section.relative.mt-\[190px\].overflow-hidden > div > div.w-full.min-h-\[520px\].bg-white.flex.rounded-md.relative.p-10.py-12.border > div > div > div{
+        margin-top: 10px; 
+    }
+}
